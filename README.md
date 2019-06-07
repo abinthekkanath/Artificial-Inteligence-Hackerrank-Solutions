@@ -3,4 +3,4 @@ My Solutions for #Hackerrank Artificial Inteligence Challenges using Python 3.Th
 
 #Bot saves princess 
 by dheeraj
-
+https://www.hackerrank.com/challenges/saveprincess/problem
